@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结.md",
+                "file": "成本管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总结"
+              "title": "成本管理"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结.md",
+                "file": "成本管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "总结 的反向链接列表"
+              "title": "成本管理 的反向链接列表"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结.md",
+                "file": "成本管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "总结 的出链列表"
+              "title": "成本管理 的出链列表"
             }
           },
           {
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结.md",
+                "file": "成本管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总结 的大纲"
+              "title": "成本管理 的大纲"
             }
           }
         ]
@@ -299,15 +299,17 @@
   },
   "active": "6bdf576dc0d2ed64",
   "lastOpenFiles": [
-    "质量管理.md",
-    "项目管理概论.md",
     "范围管理.md",
-    "成本管理.md",
     "进度管理.md",
+    "英文.md",
+    "质量管理.md",
+    "总结.md",
+    "test.md",
+    "未命名",
+    "项目管理概论.md",
+    "成本管理.md",
     "未命名.base",
     "未命名.canvas",
-    "总结.md",
-    "英文.md",
     "高项 ITTO 核心易混点默写背诵表.md",
     "整合管理.md",
     "资源管理.md"
