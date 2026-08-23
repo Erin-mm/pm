@@ -123,17 +123,14 @@
             "id": "6bdf576dc0d2ed64",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "总结"
             }
           }
         ],
@@ -210,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "总结 的反向链接列表"
             }
           },
           {
@@ -229,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "总结 的出链列表"
             }
           },
           {
@@ -272,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "总结 的大纲"
             }
           }
         ]
@@ -296,21 +293,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "6bdf576dc0d2ed64",
   "lastOpenFiles": [
-    "总结.md",
-    "未命名.canvas",
-    "英文.md",
-    "成本管理.md",
-    "范围管理.md",
-    "高项 ITTO 核心易混点默写背诵表.md",
-    "进度管理.md",
-    "整合管理.md",
     "质量管理.md",
-    "资源管理.md",
-    "项目管理概论.md"
+    "项目管理概论.md",
+    "范围管理.md",
+    "成本管理.md",
+    "进度管理.md",
+    "未命名.base",
+    "未命名.canvas",
+    "总结.md",
+    "英文.md",
+    "高项 ITTO 核心易混点默写背诵表.md",
+    "整合管理.md",
+    "资源管理.md"
   ]
 }
