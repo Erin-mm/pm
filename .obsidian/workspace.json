@@ -4,17 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "419c77a39d48eae8",
+        "id": "c588e2a4b7c6692b",
         "type": "tabs",
         "children": [
           {
-            "id": "a22ddd9abe7fa430",
+            "id": "7f47d658dec30000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "整合管理.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "整合管理"
+            }
+          },
+          {
+            "id": "99acb35d8c31a9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整合管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "整合管理"
+            }
+          },
+          {
+            "id": "7ffd1c3f52fe09c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高项 ITTO 核心易混点默写背诵表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高项 ITTO 核心易混点默写背诵表"
+            }
+          },
+          {
+            "id": "403118003bbc93f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "范围管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "范围管理"
+            }
+          },
+          {
+            "id": "e10cb39ba59e53a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "范围管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "范围管理"
+            }
+          },
+          {
+            "id": "ef1e9715a0950bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成本管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "成本管理"
+            }
+          },
+          {
+            "id": "8f529dfca4f24ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英文"
+            }
+          },
+          {
+            "id": "468e2dfcf138c945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高项 ITTO 核心易混点默写背诵表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高项 ITTO 核心易混点默写背诵表"
+            }
+          },
+          {
+            "id": "6bdf576dc0d2ed64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成本管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "成本管理"
             }
           },
           {
@@ -44,13 +160,51 @@
               "icon": "lucide-file",
               "title": "采购管理"
             }
+          },
+          {
+            "id": "02e8f1b54bb302f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高项 ITTO 核心易混点默写背诵表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高项 ITTO 核心易混点默写背诵表"
+            }
+          },
+          {
+            "id": "715f9b7b0eaf9fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "资源管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "资源管理"
+            }
+          },
+          {
+            "id": "b193da607704391d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "干系人管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "干系人管理"
+            }
           }
-<<<<<<< HEAD
         ],
-        "currentTab": 10
-=======
-        ]
->>>>>>> d290cddbd5282e20805a77df84afd8887f32686e
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -70,9 +224,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -125,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "采购管理.md",
+                "file": "干系人管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "采购管理 的反向链接列表"
+              "title": "干系人管理 的反向链接列表"
             }
           },
           {
@@ -144,12 +296,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "采购管理.md",
+                "file": "干系人管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "采购管理 的出链列表"
+              "title": "干系人管理 的出链列表"
             }
           },
           {
@@ -187,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "采购管理.md",
+                "file": "干系人管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "采购管理 的大纲"
+              "title": "干系人管理 的大纲"
             }
           }
         ]
@@ -215,34 +367,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-<<<<<<< HEAD
-  "active": "acbd6350cd1b8630",
+  "active": "b193da607704391d",
   "lastOpenFiles": [
-    "质量管理.md",
+    "沟通管理.md",
     "成本管理.md",
+    "范围管理.md",
+    "干系人管理.md",
+    "资源管理.md",
+    "进度管理.md",
+    "项目管理概论.md",
+    "高项 ITTO 核心易混点默写背诵表.md",
     "采购管理.md",
-    "高项 ITTO 核心易混点默写背诵表.md",
-    "风险管理.md",
-    "范围管理.md",
-    "进度管理.md",
     "英文.md",
-=======
-  "active": "a22ddd9abe7fa430",
-  "lastOpenFiles": [
-    "成本管理.md",
-    "高项 ITTO 核心易混点默写背诵表.md",
-    "英文.md",
-    "范围管理.md",
-    "进度管理.md",
     "质量管理.md",
->>>>>>> d290cddbd5282e20805a77df84afd8887f32686e
+    "风险管理.md",
     "总结.md",
     "test.md",
     "未命名",
-    "项目管理概论.md",
     "未命名.base",
     "未命名.canvas",
-    "整合管理.md",
-    "资源管理.md"
+    "整合管理.md"
   ]
 }
