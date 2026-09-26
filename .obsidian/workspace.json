@@ -202,9 +202,21 @@
               "icon": "lucide-file",
               "title": "干系人管理"
             }
+          },
+          {
+            "id": "5513ae956c7ab0ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -367,7 +381,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b193da607704391d",
+  "active": "5513ae956c7ab0ef",
   "lastOpenFiles": [
     "沟通管理.md",
     "成本管理.md",
