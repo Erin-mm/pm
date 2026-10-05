@@ -207,12 +207,14 @@
             "id": "5513ae956c7ab0ef",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "高项 ITTO 核心易混点默写背诵表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.7"
+              "icon": "lucide-file",
+              "title": "高项 ITTO 核心易混点默写背诵表"
             }
           }
         ],
@@ -383,10 +385,11 @@
   },
   "active": "5513ae956c7ab0ef",
   "lastOpenFiles": [
+    "干系人管理.md",
+    "总结.md",
     "沟通管理.md",
     "成本管理.md",
     "范围管理.md",
-    "干系人管理.md",
     "资源管理.md",
     "进度管理.md",
     "项目管理概论.md",
@@ -395,7 +398,6 @@
     "英文.md",
     "质量管理.md",
     "风险管理.md",
-    "总结.md",
     "test.md",
     "未命名",
     "未命名.base",
