@@ -230,9 +230,23 @@
               "icon": "lucide-file",
               "title": "配置管理"
             }
+          },
+          {
+            "id": "6fb5b332be1f39bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "监理基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "监理基础知识"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -397,10 +411,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d7a375730a071fbb",
+  "active": "6fb5b332be1f39bb",
   "lastOpenFiles": [
-    "风险管理.md",
+    "截屏2026-10-07 14.45.06.png",
     "配置管理.md",
+    "监理基础知识.md",
+    "风险管理.md",
     "高项 ITTO 核心易混点默写背诵表.md",
     "干系人管理.md",
     "总结.md",
