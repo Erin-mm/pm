@@ -244,9 +244,23 @@
               "icon": "lucide-file",
               "title": "监理基础知识"
             }
+          },
+          {
+            "id": "58c4d80f72ebe80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律法规和标准规范.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "法律法规和标准规范"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -411,11 +425,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6fb5b332be1f39bb",
+  "active": "58c4d80f72ebe80b",
   "lastOpenFiles": [
+    "监理基础知识.md",
+    "法律法规和标准规范.md",
     "截屏2026-10-07 14.45.06.png",
     "配置管理.md",
-    "监理基础知识.md",
     "风险管理.md",
     "高项 ITTO 核心易混点默写背诵表.md",
     "干系人管理.md",
