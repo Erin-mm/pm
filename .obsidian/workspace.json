@@ -286,23 +286,9 @@
               "icon": "lucide-file",
               "title": "信息技术发展"
             }
-          },
-          {
-            "id": "4d7a78fc7e7be921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -467,11 +453,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4d7a78fc7e7be921",
+  "active": "59d64ebcf0e47ba2",
   "lastOpenFiles": [
-    "Pasted image 20261021200953.png",
     "Pasted image 20261021200950.png",
+    "信息技术发展.md",
     "Pasted image 20261021200911.png",
+    "未命名.md",
+    "Pasted image 20261021200953.png",
     "Pasted image 20261021200444.png",
     "Pasted image 20261021200249.png",
     "Pasted image 20261021200107.png",
@@ -479,15 +467,12 @@
     "Pasted image 20261021195804.png",
     "Pasted image 20261021195551.png",
     "Pasted image 20261021195338.png",
-    "信息技术发展.md",
-    "未命名.md",
     "信息化发展.md",
     "英文.md",
     "范围管理.md",
     "项目管理概论.md",
     "配置管理.md",
     "法律法规和标准规范.md",
-    "截屏2026-10-07 14.45.06.png",
     "监理基础知识.md",
     "风险管理.md",
     "高项 ITTO 核心易混点默写背诵表.md",
